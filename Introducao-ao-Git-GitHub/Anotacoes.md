@@ -1,2 +1,2 @@
-#Aqui será anotado tudo referente ao Git e GitHub
+ # Aqui será anotado tudo referente ao Git e GitHub
 
